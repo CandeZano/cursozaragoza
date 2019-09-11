@@ -1,2 +1,2 @@
-# cursozaragoza
+cursozaragoza
 Repositorio curso git
